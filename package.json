@@ -1,0 +1,16 @@
+{
+  "name": "codex-project-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A local-first project memory dashboard for Codex, customizable with AI.",
+  "type": "module",
+  "engines": { "node": ">=24.0.0" },
+  "scripts": {
+    "init": "node src/cli.mjs init",
+    "demo": "node src/cli.mjs demo",
+    "refresh": "node src/cli.mjs refresh",
+    "check": "node src/cli.mjs check",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "license": "MIT"
+}

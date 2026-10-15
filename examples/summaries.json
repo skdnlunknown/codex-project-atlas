@@ -1,0 +1,32 @@
+{
+  "demo-lesson": {
+    "summary": "讲解 3.2 节并说明适用条件。 已讲解概念和例题，练习尚未检查。",
+    "result": "",
+    "pending": "",
+    "topics": [
+      "阶段回顾"
+    ],
+    "fingerprint": "2026-10-15T09:00:00Z|2026-10-15T09:01:00Z|1",
+    "coveredThrough": "2026-10-15T09:00:00Z"
+  },
+  "demo-build": {
+    "summary": "给个人网站添加本地搜索。 搜索组件已实现并通过测试，尚未发布。",
+    "result": "",
+    "pending": "发布待确认。",
+    "topics": [
+      "阶段回顾"
+    ],
+    "fingerprint": "2026-10-14T09:00:00Z|2026-10-14T09:01:00Z|1",
+    "coveredThrough": "2026-10-14T09:00:00Z"
+  },
+  "demo-sketch": {
+    "summary": "我想尝试画街景，如何安排前景？ 讨论了视觉重心和前景层次，没有设置练习计划。",
+    "result": "",
+    "pending": "",
+    "topics": [
+      "阶段回顾"
+    ],
+    "fingerprint": "2026-10-10T09:00:00Z|2026-10-10T09:01:00Z|1",
+    "coveredThrough": "2026-10-10T09:00:00Z"
+  }
+}

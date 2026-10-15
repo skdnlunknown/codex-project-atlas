@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "warnings": [],
+  "sections": [],
+  "projects": [
+    {
+      "id": "demo-course",
+      "name": "数学课程",
+      "kind": "local",
+      "sidebarGroup": "课程",
+      "threads": [
+        {
+          "id": "demo-lesson",
+          "title": "复习第 3 章积分",
+          "url": "#",
+          "activity": {
+            "daily": {
+              "2026-10-15": {
+                "messages": 1,
+                "lastAt": "2026-10-15T09:00:00Z"
+              }
+            },
+            "lastActivity": "2026-10-15T09:00:00Z",
+            "firstActivity": "2026-10-15T09:00:00Z",
+            "latestUser": {
+              "at": "2026-10-15T09:00:00Z",
+              "text": "讲解 3.2 节并说明适用条件。"
+            },
+            "latestReply": {
+              "at": "2026-10-15T09:01:00Z",
+              "text": "已讲解概念和例题，练习尚未检查。"
+            },
+            "totalTurns": 1,
+            "turns": [
+              {
+                "at": "2026-10-15T09:00:00Z",
+                "request": "讲解 3.2 节并说明适用条件。",
+                "reply": "已讲解概念和例题，练习尚未检查。",
+                "replyAt": "2026-10-15T09:01:00Z"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "demo-site",
+      "name": "个人网站",
+      "kind": "local",
+      "sidebarGroup": "开发",
+      "threads": [
+        {
+          "id": "demo-build",
+          "title": "增加网站搜索",
+          "url": "#",
+          "activity": {
+            "daily": {
+              "2026-10-14": {
+                "messages": 1,
+                "lastAt": "2026-10-14T09:00:00Z"
+              }
+            },
+            "lastActivity": "2026-10-14T09:00:00Z",
+            "firstActivity": "2026-10-14T09:00:00Z",
+            "latestUser": {
+              "at": "2026-10-14T09:00:00Z",
+              "text": "给个人网站添加本地搜索。"
+            },
+            "latestReply": {
+              "at": "2026-10-14T09:01:00Z",
+              "text": "搜索组件已实现并通过测试，尚未发布。"
+            },
+            "totalTurns": 1,
+            "turns": [
+              {
+                "at": "2026-10-14T09:00:00Z",
+                "request": "给个人网站添加本地搜索。",
+                "reply": "搜索组件已实现并通过测试，尚未发布。",
+                "replyAt": "2026-10-14T09:01:00Z"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "demo-art",
+      "name": "速写与观察",
+      "kind": "local",
+      "sidebarGroup": "兴趣",
+      "threads": [
+        {
+          "id": "demo-sketch",
+          "title": "观察街景构图",
+          "url": "#",
+          "activity": {
+            "daily": {
+              "2026-10-10": {
+                "messages": 1,
+                "lastAt": "2026-10-10T09:00:00Z"
+              }
+            },
+            "lastActivity": "2026-10-10T09:00:00Z",
+            "firstActivity": "2026-10-10T09:00:00Z",
+            "latestUser": {
+              "at": "2026-10-10T09:00:00Z",
+              "text": "我想尝试画街景，如何安排前景？"
+            },
+            "latestReply": {
+              "at": "2026-10-10T09:01:00Z",
+              "text": "讨论了视觉重心和前景层次，没有设置练习计划。"
+            },
+            "totalTurns": 1,
+            "turns": [
+              {
+                "at": "2026-10-10T09:00:00Z",
+                "request": "我想尝试画街景，如何安排前景？",
+                "reply": "讨论了视觉重心和前景层次，没有设置练习计划。",
+                "replyAt": "2026-10-10T09:01:00Z"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

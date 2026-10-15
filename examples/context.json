@@ -1,0 +1,80 @@
+{
+  "demo-course": {
+    "purpose": "按实际讲到的章节回顾学习。",
+    "type": "course",
+    "progress": [
+      {
+        "kind": "课程",
+        "title": "第 3 章 · 3.2 节",
+        "description": "积分概念、适用条件与典型例题。",
+        "overall": "已讲解到 3.2 节，掌握程度待练习确认。",
+        "recent": "补充了公式条件和一道例题。",
+        "date": "2026-10-15",
+        "sources": [
+          "demo-lesson"
+        ],
+        "stages": [
+          {
+            "title": "3.1 节",
+            "state": "done",
+            "status": "已讲解",
+            "note": "定义与方法"
+          },
+          {
+            "title": "3.2 节",
+            "state": "current",
+            "status": "已讲解",
+            "note": "练习待检查"
+          },
+          {
+            "title": "3.3 节",
+            "state": "ready",
+            "status": "资料已准备",
+            "note": "尚未授课"
+          }
+        ]
+      }
+    ]
+  },
+  "demo-site": {
+    "purpose": "维护一个个人网站。",
+    "type": "engineering",
+    "progress": [
+      {
+        "kind": "开发",
+        "title": "搜索功能已实现 · 待发布",
+        "description": "基础网站已有版本，最近补充站内搜索。",
+        "overall": "本地实现和测试完成，线上尚无这次改动。",
+        "recent": "新增搜索组件和测试。",
+        "date": "2026-10-14",
+        "sources": [
+          "demo-build"
+        ],
+        "stages": [
+          {
+            "title": "实现",
+            "state": "done",
+            "status": "已完成",
+            "note": "本地功能"
+          },
+          {
+            "title": "测试",
+            "state": "done",
+            "status": "已通过",
+            "note": "自动检查"
+          },
+          {
+            "title": "发布",
+            "state": "pending",
+            "status": "待发布",
+            "note": "尚未上线"
+          }
+        ]
+      }
+    ]
+  },
+  "demo-art": {
+    "purpose": "偶尔聊聊画画与观察，不设固定进度。",
+    "type": "interest"
+  }
+}

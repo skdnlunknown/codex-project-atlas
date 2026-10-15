@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "title": "Project Atlas",
+  "timezone": "Asia/Shanghai",
+  "historyDays": 91,
+  "inactiveDays": 30,
+  "defaultGroup": "其他项目",
+  "preferCodexGroups": true,
+  "archivedGroups": ["used"],
+  "sections": [],
+  "projects": [],
+  "fallbackThreads": []
+}
